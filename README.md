@@ -14,7 +14,9 @@ List:
   + [iteration]
   + [arrays-and-slices]
   + [structs-methods-and-interfaces]
-
+  + [pointers-and-errors]
+  + [maps]
+  + [dependency-injection]
 
 [Learn Go With Tests]: https://quii.gitbook.io/learn-go-with-tests
 [go-fundamentals]: go-fundamentals
@@ -23,3 +25,6 @@ List:
 [iteration]: go-fundamentals/iteration
 [arrays-and-slices]: go-fundamentals/arrays-and-slices
 [structs-methods-and-interfaces]: go-fundamentals/structs-methods-and-interfaces
+[pointers-and-errors]: go-fundamentals/pointers-and-errors
+[maps]: go-fundamentals/maps
+[dependency-injection]: go-fundamentals/dependency-injection
