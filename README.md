@@ -13,6 +13,7 @@ List:
   + [integers]
   + [iteration]
   + [arrays-and-slices]
+  + [structs-methods-and-interfaces]
 
 
 [Learn Go With Tests]: https://quii.gitbook.io/learn-go-with-tests
@@ -21,3 +22,4 @@ List:
 [integers]: go-fundamentals/integers
 [iteration]: go-fundamentals/iteration
 [arrays-and-slices]: go-fundamentals/arrays-and-slices
+[structs-methods-and-interfaces]: go-fundamentals/structs-methods-and-interfaces
