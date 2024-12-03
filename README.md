@@ -17,6 +17,8 @@ List:
   + [pointers-and-errors]
   + [maps]
   + [dependency-injection]
+  + [mocking]
+  + [concurrency]
 
 [Learn Go With Tests]: https://quii.gitbook.io/learn-go-with-tests
 [go-fundamentals]: go-fundamentals
@@ -28,3 +30,5 @@ List:
 [pointers-and-errors]: go-fundamentals/pointers-and-errors
 [maps]: go-fundamentals/maps
 [dependency-injection]: go-fundamentals/dependency-injection
+[mocking]: go-fundamentals/mocking
+[concurrency]: go-fundamentals/concurrency
